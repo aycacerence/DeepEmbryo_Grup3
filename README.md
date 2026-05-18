@@ -107,9 +107,14 @@ pip install -r 5_Uygulama_Kaynak_Kodlari/requirements.txt
 
 ### Model Dosyalarını İndirin
 > Model dosyaları boyut nedeniyle GitHub'da bulunmamaktadır.  
-> Aşağıdaki linkten indirip `1_Model_Dosyalari/` klasörüne koyun:
+> Aşağıdaki Google Drive linkinden indirip `1_Model_Dosyalari/` klasörüne koyun:
 >
-> 📦 **[Model İndirme Linki — buraya eklenecek]**
+> 📦 **[Model Dosyalarını İndir — Google Drive](https://drive.google.com/drive/folders/1B2uqGRJOJUihNgfz3fmjW8N-rTQvKP4K)**
+>
+> | Dosya | Boyut | Açıklama |
+> |---|---|---|
+> | `best_clinical_model_v2_1.h5` | ~211 MB | V2.1 Klinik Model (TensorFlow/Keras) |
+> | `deepembriyo_best_model_v1.pth` | ~94 MB | V1 Deneysel Model (PyTorch) |
 
 ### Uygulamayı Başlatın
 
