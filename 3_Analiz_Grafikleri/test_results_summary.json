@@ -1,0 +1,10 @@
+{
+    "test_accuracy": 0.6818181818181818,
+    "macro_f1": 0.4000000000000001,
+    "weighted_f1": 0.6,
+    "class_performance": {
+        "Fair": 0.4,
+        "Good": 0.8,
+        "Poor": 0.0
+    }
+}

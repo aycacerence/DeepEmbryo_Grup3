@@ -1,0 +1,50 @@
+# ============================================================
+# DeepEmbryo Grup3 - .gitignore
+# ============================================================
+
+# ----- Büyük Model Dosyaları (GitHub 100MB limitini aşıyor) -----
+# Bu dosyaları ayrıca paylaşın (Google Drive, Hugging Face, vb.)
+1_Model_Dosyalari/*.h5
+1_Model_Dosyalari/*.pth
+1_Model_Dosyalari/*.pt
+1_Model_Dosyalari/*.pb
+1_Model_Dosyalari/*.onnx
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+ENV/
+
+# ----- Jupyter Notebook -----
+.ipynb_checkpoints/
+*.ipynb
+
+# ----- IDE / Editor -----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ----- OS -----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----- Geçici Dosyalar -----
+*.tmp
+*.bak
+*.log
+
+
