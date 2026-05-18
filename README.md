@@ -149,13 +149,12 @@ python main.py
 
 ---
 
-## 👥 Grup 3 — Ekip
+## 👥 Grup 3 
 
-| İsim | Rol |
-|---|---|
-| [Ekip Üyesi 1] | Model Geliştirme |
-| [Ekip Üyesi 2] | Uygulama Geliştirme |
-| [Ekip Üyesi 3] | Veri İşleme & XAI |
+| Şevval Ayça Çerence |
+| Merve Selçuk |
+| Nisanur Pehlivan|
+| Pelin Özer |
 
 ---
 
