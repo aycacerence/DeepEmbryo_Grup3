@@ -15,7 +15,8 @@ DeepEmbryo, IVF (In Vitro Fertilizasyon) süreçlerinde embriyo görüntülerini
 
 ```
 DeepEmbryo_Grup3/
-├── 1_Model_Dosyalari/          # Eğitilmiş model ağırlıkları (ayrıca paylaşılıyor*)
+├── 1_Model_Dosyalari/             # Eğitilmiş model ağırlıkları 
+                                   # (Drive Linki:https://drive.google.com/drive/folders/1B2uqGRJOJUihNgfz3fmjW8N-rTQvKP4K)
 │   ├── best_clinical_model_v2_1.h5   # V2.1 Klinik Model (TensorFlow/Keras)
 │   └── deepembriyo_best_model_v1.pth # V1 Model (PyTorch)
 │
@@ -93,7 +94,7 @@ DeepEmbryo_Grup3/
 
 ```bash
 # Repo'yu klonlayın
-git clone https://github.com/KULLANICI_ADI/DeepEmbryo_Grup3.git
+git clone https://github.com/aycacerence/DeepEmbryo_Grup3.git
 cd DeepEmbryo_Grup3
 
 # Sanal ortam oluşturun (önerilen)
